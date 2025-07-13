@@ -77,6 +77,6 @@ Install necessary packages (if running locally):
 pip install yfinance pandas matplotlib
 ```
 
-##✍️ Author
+✍️ Author
 Aadya Agarwal
 Empowering smart analysis through data and code.
